@@ -1,5 +1,5 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/konscanner/polygon-x-sushi/badge)](https://www.codefactor.io/repository/github/konscanner/polygon-x-sushi)
+[![CodeFactor](https://www.codefactor.io/repository/github/konscanner/maker-dao/badge)](https://www.codefactor.io/repository/github/konscanner/maker-dao)
 
-# Polygon X Sushi
+# Maker Dao
 
-Polygon X Sushi
+Maker Dao - DAI on the market
